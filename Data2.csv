@@ -1,0 +1,31 @@
+id,first name,last name,age,city,province,job title
+1,John,Doe,32,Toronto,Ontario,Engineer
+2,Jane,Smith,27,Vancouver,British Columbia,Engineer
+3,Bob,Brown,29,Calgary,Alberta,Designer
+4,Alice,Johnson,31,Edmonton,Alberta,Designer
+5,Charlie,Williams,28,Montréal,Quebec,Teacher
+6,Emily,Miller,35,Ottawa,Ontario,Teacher
+7,David,Anderson,30,Winnipeg,Manitoba,Doctor
+8,Sophia,Taylor,29,Quebec City,Quebec,Doctor
+9,Michael,White,33,Hamilton,Ontario,Lawyer
+10,Lucy,Green,25,Saskatoon,Saskatchewan,Lawyer
+11,William,Turner,40,Victoria,British Columbia,Architect
+12,Ella,Jones,26,Regina,Saskatchewan,Architect
+13,James,Robinson,36,Halifax,Nova Scotia,Accountant
+14,Lily,Clark,29,London,Ontario,Accountant
+15,Joseph,Lee,33,St. John's,Newfoundland and Labrador,Nurse
+16,Chloe,Moore,28,Kitchener,Ontario,Nurse
+17,Andrew,Harris,34,Windsor,Ontario,Programmer
+18,Mia,Thompson,30,Oshawa,Ontario,Programmer
+19,Thomas,Young,31,Sherbrooke,Quebec,Photographer
+20,Isabella,Hall,29,Sudbury,Ontario,Photographer
+21,Daniel,Evans,28,Kingston,Ontario,Journalist
+22,Olivia,King,27,Guelph,Ontario,Journalist
+23,Benjamin,Lopez,32,Moncton,New Brunswick,Consultant
+24,Grace,Wright,26,Saint John,New Brunswick,Consultant
+25,Matthew,Martin,34,Barrie,Ontario,Artist
+26,Eva,Hill,28,Abbotsford,British Columbia,Artist
+27,Christopher,Adams,31,Kelowna,British Columbia,Scientist
+28,Anna,Allen,25,Kamloops,British Columbia,Scientist
+29,Alexander,Gonzalez,33,Chatham,Ontario,Manager
+30,Samantha,Perez,32,Brampton,Ontario,Manager
